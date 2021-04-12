@@ -22,12 +22,12 @@ body{
   
   display: flex;
   justify-content: space-between;
-  justify-items: center;
+  align-items: center;
   flex-wrap: wrap;
   
   padding: 20px 50px;
   
-  background-color: rgba(0, 0, 200, .4);
+  background-color: rgba(6, 6, 31, 0.4);
 }
 
 .cards-container h1{
